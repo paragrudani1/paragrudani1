@@ -2,7 +2,7 @@
 
 I started coding in December 2018, and I am a self-taught developer. I have a passion for modern looking websites with a few animations. I love what I am doing, and I am highly motivated to collaborate with someone. If you are up into some projects, just let me know!
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@bartzalewski&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/bartzalewski/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@bartzalewski&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/parag-rudani-003965120/) ![visitors](https://visitor-badge.glitch.me/badge?page_id=bartzalewski.visitor-badge)
 
 ### Projects 💼
 
