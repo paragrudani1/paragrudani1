@@ -28,8 +28,8 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Follow me 💚
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bart_coder?style=social)](https://twitter.com/bart_coder)
-[![GitHub followers](https://img.shields.io/github/followers/bartzalewski.svg?label=Follow%20@bartzalewski&style=social)](https://github.com/bartzalewski/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paragrudani?style=social)](https://twitter.com/paragrudani)
+[![GitHub followers](https://img.shields.io/github/followers/paragrudani1.svg?label=Follow%20@paragrudani1&style=social)](https://github.com/paragrudani1/)
 
 ### Social media 🤗
 
