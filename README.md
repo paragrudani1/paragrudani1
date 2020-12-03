@@ -8,7 +8,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 | 🍔 — [**Unsplash Clone**](https://github.com/paragrudani1/unsplash-clone) | 🌑 — [**Finance Manager**](https://github.com/paragrudani1/finance-manager) | 🏫 — [**Music App**](https://optimistic-payne-da21c5.netlify.com/)  |
 |---|---|---|
-| 🌐 — [**Web Developer Portfolio Template**](https://github.com/paragrudani1/web-developer-portfolio | 📁 — [**Portfolio Website**](https://github.com/paragrudani1/paragrudani.com-react) |
+| 🌐 — [**Web Developer Portfolio Template**](https://github.com/paragrudani1/web-developer-portfolio) | 📁 — [**Portfolio Website**](https://github.com/paragrudani1/paragrudani.com-react) |
 
 <sup><kbd>***[Click here](https://paragrudani.com)***</kbd> *to view more.*</sup>
 
