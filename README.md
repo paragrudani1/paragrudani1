@@ -6,16 +6,16 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Projects 💼
 
-| 🍔 — [**HOPP**](https://github.com/bartzalewski/hopp) | 🌑 — [**Grammarly Dark**](https://github.com/bartzalewski/grammarly-dark) | 🏫 — [**Schoolify**](https://github.com/bartzalewski/schoolify)  |
+| 🍔 — [**Unsplash Clone**](https://github.com/paragrudani1/unsplash-clone) | 🌑 — [**Finance Manager**](https://github.com/paragrudani1/finance-manager) | 🏫 — [**Music App**](https://optimistic-payne-da21c5.netlify.com/)  |
 |---|---|---|
-| 🌐 — [**Pagetify**](https://github.com/bartzalewski/pagetify) | 📁 — [**Portfolio Website**](https://github.com/bartzalewski/bartzalewski.com-v2) | ⌨️ — [**CodeTyper**](https://github.com/bartzalewski/code-typer)  |
+| 🌐 — [**Web Developer Portfolio Template**](https://github.com/paragrudani1/web-developer-portfolio | 📁 — [**Portfolio Website**](https://github.com/paragrudani1/paragrudani.com-react) |
 
-<sup><kbd>***[Click here](https://github.com/bartzalewski/bartzalewski/blob/master/PROJECTS.md)***</kbd> *to view more.*</sup>
+<sup><kbd>***[Click here](https://paragrudani.com)***</kbd> *to view more.*</sup>
 
 ### Instagram posts 📷
 
 <div>
-  <a href="https://www.instagram.com/p/CE-W8AcACIe/" target="_blank"><img src="https://i.imgur.com/DK56ZXl.png" alt="8 Tips To Write a Better HTML!" height="90" /></a>
+  <a href="https://www.instagram.com/p/CIPrxm7ANeV/" target="_blank"><img src="https://i.imgur.com/DK56ZXl.png" alt="Easy Facebook OAUTH with react " height="90" /></a>
   <a href="https://www.instagram.com/p/CEkP3rgA1yh/" target="_blank"><img src="https://i.imgur.com/KZtNQEN.png" alt="Create a Firebase CRUD App!" height="90" /></a>
   <a href="https://www.instagram.com/p/CDIBKu1ABuu/" target="_blank"><img src="https://i.imgur.com/TSAZu9n.png" alt="Front-End Developer & Algorithms?" height="90" /></a>
   <a href="https://www.instagram.com/p/CFHYTlWgieU/" target="_blank"><img src="https://i.imgur.com/FJxUXcE.png" alt="Learn GIT Good Practices!" height="90" /></a>
