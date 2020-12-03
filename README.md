@@ -28,7 +28,7 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 
 ### Follow me 💚
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/paragrudani?style=social)](https://twitter.com/paragrudani)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paragrudani1?style=social)](https://twitter.com/paragrudani1)
 [![GitHub followers](https://img.shields.io/github/followers/paragrudani1.svg?label=Follow%20@paragrudani1&style=social)](https://github.com/paragrudani1/)
 
 ### Social media 🤗
