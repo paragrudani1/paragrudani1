@@ -34,7 +34,6 @@ I started coding in December 2018, and I am a self-taught developer. I have a pa
 ### Social media 🤗
 
 <div>
-  <a href="https://www.bartzalewski.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>
-  <a href="https://www.instagram.com/bart.code/" target="_blank"><img src="https://i.imgur.com/j0J1h2c.png" alt="Instagram" height="20" /></a>
-  <a href="https://www.youtube.com/channel/UCwkU0-_RJbS16X5pbcW-tPQ/" target="_blank"><img src="https://i.imgur.com/qxcYMW5.png" alt="YouTube" height="20" /></a>
+  <a href="https://www.paragrudani.com/" target="_blank"><img src="https://i.imgur.com/oHCmXy9.png" alt="Website" height="20" /></a>
+  <a href="https://www.instagram.com/paragrudani/" target="_blank"><img src="https://i.imgur.com/j0J1h2c.png" alt="Instagram" height="20" /></a>
 </div>
