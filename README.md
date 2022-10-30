@@ -19,6 +19,6 @@
 &nbsp;
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paragrudani1&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats) &nbsp; &nbsp; [![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paragrudani1&count_private=true&show_icons=true&theme=transparent&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paragrudani1&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paragrudani1&layout=compact&theme=transparent&card_width=450&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp;[![Parags's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paragrudani&langs_count=5&theme=transparent&custom_title=My%20All%20time%20stats&layout=compact&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)
