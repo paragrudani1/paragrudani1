@@ -1,12 +1,13 @@
 ![github-header-image](https://user-images.githubusercontent.com/47742372/198867145-9b9ff323-950b-43af-bf79-25937058cc05.png)
 
-## About me
+## About Me
 
-- I'm currently working as a Full Stack Developer at EvolveNext.
-- I'm currently learning advanced concepts of backend & frontend.
-- I'm familiar with MS Sql databases
-- Always looking to collaborate on projects, learn and share my knowledge
-- You can always reach out to me on:
+- Currently, I am employed as a Full Stack Developer at EvolveNext.
+- I am actively pursuing advanced concepts in both backend and frontend development.
+- I am proficient in SQL databases.
+- I am consistently seeking opportunities to collaborate on projects, acquire new knowledge, and share my expertise.
+
+You may reach out to me at the following contact details:
 
 <p align="center" dir="auto">
 <a href="https://mail.google.com/mail/u/0/?fs=1&amp;tf=cm&amp;source=mailto&amp;to=rudaniparag@gmail.com" rel="nofollow">
