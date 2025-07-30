@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Currently, I am employed as a Full Stack Developer at EvolveNext.
+- Currently Full Stack Developer @ EvolveNext.
 - I am actively pursuing advanced concepts in both backend and frontend development.
 - I am proficient in SQL databases.
 - I am consistently seeking opportunities to collaborate on projects, acquire new knowledge, and share my expertise.
